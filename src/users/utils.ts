@@ -1,0 +1,1 @@
+export const userBalanceCacheKey = (id: number) => `user_${id}`;
